@@ -1,0 +1,13 @@
+Database
+
+userName: travelUser
+userID: ArB3Rd7Hza3f77Rd
+
+
+npm install mongodb
+
+mongodb+srv://travelUser:ArB3Rd7Hza3f77Rd@cluster0.xk2hzsn.mongodb.net/travelUser?appName=Cluster0
+
+
+いっかいvisual studio codeを再起動したらいけたよ
+次は何をすればいいかな？（① models/user.js に追記、② app.js に passport の設定を追加、③ routes/index.js に Register ルートを追加、④ views/register.hbs を作成）
